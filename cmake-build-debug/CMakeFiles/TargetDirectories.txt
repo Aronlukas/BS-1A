@@ -1,0 +1,3 @@
+C:/Users/hafne/CLionProjects/Betriebssysteme 1A/cmake-build-debug/CMakeFiles/Betriebssysteme_1A.dir
+C:/Users/hafne/CLionProjects/Betriebssysteme 1A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hafne/CLionProjects/Betriebssysteme 1A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
